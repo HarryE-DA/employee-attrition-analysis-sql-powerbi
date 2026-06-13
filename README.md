@@ -44,17 +44,20 @@ The analysis aimed to answer the following questions:
 
   ### Power BI dashboard
   Provides a high level overview of attrtition across departments, job role, overtime status and work-life balance.
+  ###Main Dashboard
+  ![Main Dashboard](Power BI Dashboard.png)
 
-  ### SQL_Power BI dashboard
+  ### SQL + Power BI dashboard
   Presents additional insights generated through SQL analysis, including tenure group, average salary comparison and employee tenure metrics.
+  ### SQL Findings
+  ![SQL Dashboard](SQL + Power Bo dashboard.png)
 
   ## Repository Contents
-  '''text
-  SQL Queries
-  Power BI Dashboard (.pbix)
-  Dashboard Screenshots
-  Project Documentation
-  '''
+ -  SQL Queries(.sql)
+ - Power BI Dashboard (.pbix)
+ - Dashboard Screenshots
+ - README Documentation
+
 
   ## Conclusion
   The analysis suggests that overtime, lower salaries, poor work-life balance and shorter employee tenure are strongly associated with higher attrtion rates. These findings could help HR teams identify retention risks and develop targeted employee engagement strategies.
