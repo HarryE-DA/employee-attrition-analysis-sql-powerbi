@@ -45,7 +45,7 @@ The analysis aimed to answer the following questions:
   ### Power BI dashboard
   Provides a high level overview of attrtition across departments, job role, overtime status and work-life balance.
   ### Main Dashboard
-  ![Main Dashboard](PowerBI|_Dashboard.png)
+  ![Main Dashboard](PowerBI_dashboard.png)
 
   ### SQL + Power BI dashboard
   Presents additional insights generated through SQL analysis, including tenure group, average salary comparison and employee tenure metrics.
