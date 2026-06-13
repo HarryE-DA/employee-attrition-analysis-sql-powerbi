@@ -1,4 +1,5 @@
 # Employee Attrition Analysis (SQL + Power BI)
+***Skills:*** SQL │ PostgreSQL │ Power BI │ DAX │ Data Visualisation │ HR Analytics
 
 ## Project Overview 
 This project investigates employee attrition using PostgreSQL and Power BI. SQL was used to analyse workforce data and identify key drivers of employee turnover before visualising the findings in an interactive Power BI dashboard. 
@@ -13,8 +14,8 @@ This project investigates employee attrition using PostgreSQL and Power BI. SQL 
 ## Business Questions
 The analysis aimed to answer the following questions:
 - What is the overall employee attrition rate?
-- Which department have the highest attrition?
-- Which job role experience the highest employee turnover?
+- Which department has the highest attrition?
+- Which job role experiences the highest employee turnover?
 - Does overtime contribute to attrition?
 - Does work-life balance influence employee retention?
 - How does employee tenure affect attrition?
@@ -60,6 +61,6 @@ The analysis aimed to answer the following questions:
 
 
   ## Conclusion
-  The analysis suggests that overtime, lower salaries, poor work-life balance and shorter employee tenure are strongly associated with higher attrtion rates. These findings could help HR teams identify retention risks and develop targeted employee engagement strategies.
+  The analysis suggests that overtime, lower salaries, poor work-life balance and shorter employee tenure are strongly associated with higher attrtion rates. These insights can help HR teams identify retention risks and develop targeted employee retention strategies and improve workforce stability.
   
 
